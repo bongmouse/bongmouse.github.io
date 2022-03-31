@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "코딩 공부"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "이경진"
+name                     : "Your Name"
 description              : "An amazing website."
 url                      : "https://bongmouse.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
